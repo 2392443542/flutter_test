@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'TestWidget.dart';
-import 'ShareDataWidget.dart';
+import 'inherited/TestWidget.dart';
+import 'inherited/ShareDataWidget.dart';
+// import 'ProviderRoute.dart';
 
 void main() {
   runApp(MyApp());
